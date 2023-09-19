@@ -1,1 +1,2 @@
-# ppw2023-IS-MI
+# Contact:
+chilat.sergiu@usarb.md, chilatsergiu@gmail.com
