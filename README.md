@@ -19,4 +19,5 @@ https://zzf8zn.csb.app/
 # Tutorials
 HTML https://www.w3schools.com/html/
 
-
+# HTML Code validator
+https://validator.w3.org/
