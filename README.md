@@ -9,8 +9,11 @@ chilat.sergiu@usarb.md, chilatsergiu@gmail.com
 - Notepad++ https://notepad-plus-plus.org/
 ## Online editors
 - Codesandbox
--- https://codesandbox.io/
--- https://codesandbox.io/s/proiectarea-paginilor-web-2023-is-mi-zzf8zn
--- https://zzf8zn.csb.app/
+  
+https://codesandbox.io/
+
+https://codesandbox.io/s/proiectarea-paginilor-web-2023-is-mi-zzf8zn
+
+https://zzf8zn.csb.app/
 
 
