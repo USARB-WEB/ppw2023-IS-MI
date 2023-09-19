@@ -8,6 +8,9 @@ chilat.sergiu@usarb.md, chilatsergiu@gmail.com
 - Brackets https://brackets.io/
 - Notepad++ https://notepad-plus-plus.org/
 ## Online editgors
-- https://codesandbox.io/, https://codesandbox.io/s/proiectarea-paginilor-web-2023-is-mi-zzf8zn
+- Codesandbox
+  - https://codesandbox.io/
+  - https://codesandbox.io/s/proiectarea-paginilor-web-2023-is-mi-zzf8zn
+  - https://zzf8zn.csb.app/
 
 
