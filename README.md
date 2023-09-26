@@ -24,3 +24,7 @@ HTML https://www.w3schools.com/html/
 
 # HTML Code validator
 https://validator.w3.org/
+
+# Utils
+
+- Emmet shortcut https://docs.emmet.io/cheat-sheet/
