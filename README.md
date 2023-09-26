@@ -21,6 +21,7 @@ https://zzf8zn.csb.app/
 
 # Tutorials
 HTML https://www.w3schools.com/html/
+CSS https://www.w3schools.com/css/
 
 # HTML Code validator
 https://validator.w3.org/
