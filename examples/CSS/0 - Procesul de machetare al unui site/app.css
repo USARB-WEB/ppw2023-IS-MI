@@ -1,0 +1,114 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Manrope', sans-serif;
+}
+header{
+    background-color: #F1BB6A;
+    display: flex;
+    justify-content: space-around;
+    height: 82px;
+    align-items: center;
+}
+
+header img{
+    width: 167px;
+    height: 33px;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+header nav a{
+    color: #2E343F;
+    text-decoration: none;
+    font-size: 14px;
+    width: 6em;
+}
+
+section#main{
+    background-image: url(img/hero-1.jpg);
+    height: 850px;
+    background-size: 100% 850px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+section#main div{
+    width: 70%;
+}
+
+section#main div h1{
+    font-size: 96px;
+}
+
+section#main div p{
+    font-size: 24px;
+}
+
+section#main div button{
+    font-size: 14px;
+    background-color: #F1BB6A;
+    border-radius: 100px;
+    height: 52px;
+    width: 130px;
+    color: #2E343F;
+}
+
+section#main div button.outlined{
+    background-color: transparent;
+    border: 1px solid #F1BB6A;
+    color: white;
+}
+
+h2{
+    color: white;
+    font-size: 54px;
+    text-align: center;
+}
+
+section#what-we-do{
+    padding: 0 5em;
+}
+
+section#what-we-do ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+section#what-we-do ul li{
+    margin: 2em;
+}
+
+section#what-we-do ul li h3{
+    font-size: 24px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+}
+
+.circle-icon{
+    border: 1px solid #F1BB6A;
+    height: 53px;
+    width: 53px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 53px;
+    border-radius: 100%;
+}
+
+

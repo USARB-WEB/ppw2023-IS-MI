@@ -28,4 +28,5 @@ https://validator.w3.org/
 
 # Utils
 
+- Text generator https://www.lipsum.com/feed/html
 - Emmet shortcut https://docs.emmet.io/cheat-sheet/
