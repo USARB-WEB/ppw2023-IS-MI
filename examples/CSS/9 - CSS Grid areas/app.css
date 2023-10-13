@@ -1,0 +1,47 @@
+body{
+    display: grid;
+    grid-template-areas:
+    "header header header"
+    "nav nav nav"
+    "aleft section aright"
+    "footer footer footer"
+    ;
+    grid-template-rows: 50px 30px 120px 200px;
+}
+
+header, nav, aside, section, footer{
+    border: 1px solid red;
+}
+
+header{
+    background-color: green;
+    grid-area: header;
+}
+
+nav{
+    background-color: blue;
+    grid-area: nav;
+}
+
+aside.aside-left{
+    background-color: yellow;
+    grid-area: aleft;
+}
+
+section{
+    background-color: #FF000077;
+    grid-area: section;
+}
+
+aside.aside-right{
+    background-color: lightyellow;
+    grid-area: aright;
+}
+
+footer{
+    background-color: black;
+    grid-area: footer;
+}
+
+
+
