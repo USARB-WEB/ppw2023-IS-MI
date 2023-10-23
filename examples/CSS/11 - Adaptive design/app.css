@@ -1,0 +1,60 @@
+body{
+    background-image: url(img/istockphoto-1284024960-612x612.jpg);
+}
+nav{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+}
+nav a{
+    background-color: blue;
+    border-radius: 5px;
+    padding: 1em;
+    border: 1px solid white;
+    width: 100%;
+    text-align: center;
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header{
+    background-image: url(img/header.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 200px;
+    width: 100%;
+}
+
+.wrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+section{
+    background-color: white;
+}
+
+
+@media screen and (max-width: 1000px){
+    nav{
+        flex-direction: column;
+    }
+}
+
+
+@media screen and (max-width: 600px){
+    nav{
+        flex-direction: column;
+    }
+
+    .wrapper{
+        width: 100%;
+    }
+}
+
+@media print{
+    nav{
+        display: none;
+    }
+}
