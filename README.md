@@ -1,6 +1,9 @@
 # Contact:
 chilat.sergiu@usarb.md, chilatsergiu@gmail.com
 
+# Meet conference link
+https://meet.google.com/bwf-couh-jto
+
 # Git
 https://git-scm.com/
 
