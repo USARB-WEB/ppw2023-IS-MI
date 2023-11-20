@@ -1,0 +1,13 @@
+.alert{
+    font-size: 23px;
+}
+
+.alert-danger{
+    background-color: red;
+    color: white;
+}
+
+.btn{
+    font-size: 16px;
+    padding: 1em;
+}
