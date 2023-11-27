@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+
+#app-container{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 2em;
+    padding: 1em;
+    border: 1px solid grey;
+    border-radius: 0.5em;
+}
+
+#todo-list-container{
+   
+}
+
+.todo-item{
+    border: 1px solid grey;
+    margin-top: 0.5em;
+    padding: 0.5em;
+    display: grid;
+    grid-template-columns: 1fr 8fr 3fr;
+}
+
+.todo-item .todo-text{
+    background-color: lightgrey;
+}
+
+#todo-add-form{
+    text-align: center;
+}
