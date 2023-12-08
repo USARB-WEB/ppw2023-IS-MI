@@ -11,3 +11,5 @@ https://www.figma.com/file/zDUlOnDFdplvVmd1Cd8WDN/PPW-2023-IS---Web-Site-ToR?typ
 - UML diagram
 https://drive.google.com/file/d/1cxlgkkiy9-bhJH0GaRhFrOv_lwUg2BdX/view?usp=sharing
 
+- Products with filter aside block example
+  https://codesandbox.io/p/sandbox/css-aside-filters-k79sfw
